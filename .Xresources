@@ -16,6 +16,7 @@ URxvt.underlineURLs:          true
 URxvt.url-launcher:           /usr/bin/google-chrome-stable
 Xft*antialias:                true
 Xft*hinting:                  Full
+Xft.dpi                       144
 
 URxvt.transparent:            true
 #include "git/zsh/xresources/Xresources.dark"
